@@ -1,0 +1,2 @@
+javac DevilsIsland.java
+pause
